@@ -1,0 +1,672 @@
+[{
+    "_id": {
+            "$oid": "5be79a10d42a996398bbfe7e"
+    },
+    "name": "twittbot.net",
+    "category": "Botサービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a10d42a996398bbfe7f"
+    },
+    "name": "autotweety.net",
+    "category": "Botサービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a10d42a996398bbfe80"
+    },
+    "name": "定期ツイート君",
+    "category": "Botサービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a10d42a996398bbfe81"
+    },
+    "name": "twiroboJP",
+    "category": "Botサービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a10d42a996398bbfe82"
+    },
+    "name": "rakubo2",
+    "category": "Botサービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a10d42a996398bbfe83"
+    },
+    "name": "メイクボットby関西快速",
+    "category": "Botサービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a10d42a996398bbfe84"
+    },
+    "name": "Botbird tweets",
+    "category": "Botサービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a10d42a996398bbfe85"
+    },
+    "name": "twimaker",
+    "category": "Botサービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0681"
+    },
+    "name": "ういるそん　じどうつい〜と",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0682"
+    },
+    "name": "TRPGを推す喜多見柚bot",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0683"
+    },
+    "name": "king39",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0684"
+    },
+    "name": "けむったーぼっとしすてむ",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0685"
+    },
+    "name": "シャロウを目指し泳ぐ",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0686"
+    },
+    "name": "NAYUTA♪　",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0687"
+    },
+    "name": "( ･×･)〜☆",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0688"
+    },
+    "name": "おましにbot",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a29d42a9954983c0689"
+    },
+    "name": "艦娘時報・東方名言集",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5be79a5dd42a9960707fb5d9"
+    },
+    "name": "IFTTT",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5dd42a9960707fb5da"
+    },
+    "name": "Hootsuite",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5dd42a9960707fb5db"
+    },
+    "name": "dlvr.it",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5dd42a9960707fb5dc"
+    },
+    "name": "Google",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5dd"
+    },
+    "name": "livedoor Blog",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5de"
+    },
+    "name": "WordPress.com",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5df"
+    },
+    "name": "Buffer",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e0"
+    },
+    "name": "myThings App",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e1"
+    },
+    "name": "Hatena",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e2"
+    },
+    "name": "TwitCasting",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e3"
+    },
+    "name": "niconico iOSアプリ",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e4"
+    },
+    "name": "niconico ニコニコ動画",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e5"
+    },
+    "name": "niconico ニコレポ連携",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e6"
+    },
+    "name": "Foursquare",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e7"
+    },
+    "name": "診断メーカー（ツイート機能あり）",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e8"
+    },
+    "name": "グランブルー ファンタジー",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5e9"
+    },
+    "name": "GREE",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5ea"
+    },
+    "name": "ハイタッチ！drive Twitter連携",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5eb"
+    },
+    "name": "アライドID",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5ec"
+    },
+    "name": "eAMUSEMENT",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5ed"
+    },
+    "name": "DIVA.NET",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5ee"
+    },
+    "name": "黒歴史クリーナー",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5ef"
+    },
+    "name": "チケットキャンプキャンペーン",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f0"
+    },
+    "name": "今日のツイライフ",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f1"
+    },
+    "name": "今日のスタンド",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f2"
+    },
+    "name": "rekkacopy",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f3"
+    },
+    "name": "Kyoshin Monitor Extension",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f4"
+    },
+    "name": "Earthquake Monitor Ex (強震モニタEx)",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f5"
+    },
+    "name": "なるほどえたきちじゃねーの",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f6"
+    },
+    "name": "かぁいいおにゃのこはすはすしたい",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f7"
+    },
+    "name": "EDCBTweetAPI1.1",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f8"
+    },
+    "name": "なでなで目覚まし かのん",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5f9"
+    },
+    "name": "AbemaTV",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5fa"
+    },
+    "name": "TweetMag1c for Android",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5fb"
+    },
+    "name": "TweetMag1c for Android Pro",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5fc"
+    },
+    "name": "Tweet Battery",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5fd"
+    },
+    "name": "艦これ一覧めいかー",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5fe"
+    },
+    "name": "診断メーカー shindanmaker.com",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb5ff"
+    },
+    "name": "Identity V",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a5ed42a9960707fb600"
+    },
+    "name": "Ask.fm",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af16"
+    },
+    "name": "ＩＤ表示ったー",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af17"
+    },
+    "name": "亜季",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af18"
+    },
+    "name": "Twitter-Brain-A",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af19"
+    },
+    "name": "amazon-timesale-navi",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af1a"
+    },
+    "name": "ゴルフ上手になる方法 ",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af1b"
+    },
+    "name": "  あなたの顔採点",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af1c"
+    },
+    "name": "megakiss",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af1d"
+    },
+    "name": "Twitter-Brain-KagoyaJapan",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af1e"
+    },
+    "name": "onsendeho4",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af1f"
+    },
+    "name": "コズミック・サーフィン",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af20"
+    },
+    "name": "bali8",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af21"
+    },
+    "name": "yukishimizuapi",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af22"
+    },
+    "name": "家 no 本棚",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af23"
+    },
+    "name": "メイクボットサンプル...",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af24"
+    },
+    "name": "クソみたいなアジア通貨",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af25"
+    },
+    "name": "よいものをご紹介します",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af26"
+    },
+    "name": "good night cinderella",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af27"
+    },
+    "name": "nendeb Tweet Old Post",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af28"
+    },
+    "name": "Eliminate automazioni varie conf",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af29"
+    },
+    "name": "GrabInbox",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af2a"
+    },
+    "name": "TeamFBKatZ",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af2b"
+    },
+    "name": "SocialOomph",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af2c"
+    },
+    "name": "Twitdat App",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af2d"
+    },
+    "name": "Twuffer",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af2e"
+    },
+    "name": "ManageFlitter",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af2f"
+    },
+    "name": "BlasTwit App",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af30"
+    },
+    "name": "FXS_Forex_ZH",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af31"
+    },
+    "name": "The Social Jukebox",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af32"
+    },
+    "name": "uv_cut_mania tweeter",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5be79a6cd42a99154ca7af33"
+    },
+    "name": "Crowdfire - Go Big",
+    "category": "スパム"
+},
+{
+    "_id": {
+            "$oid": "5beea6860f783517ec8e3abb"
+    },
+    "name": "TempScript",
+    "category": "独自Bot"
+},
+{
+    "_id": {
+            "$oid": "5c296c118046825985557d98"
+    },
+    "name": "Mobile Music Game - Dynamix",
+    "category": "App"
+},
+{
+    "_id": {
+            "$oid": "5c296c778046825985557ffd"
+    },
+    "name": "FF外",
+    "category": "Bot"
+},
+{
+    "_id": {
+            "$oid": "5c296cc580468259855591c7"
+    },
+    "name": "Animetick",
+    "category": "Service"
+},
+{
+    "_id": {
+            "$oid": "5c58843c8c6933b662bb9a23"
+    },
+    "category": "スパム",
+    "name": "良いと思える商品をご紹介します"
+},
+{
+    "_id": {
+            "$oid": "5c873d1f9eabd12d1a659f4b"
+    },
+    "name": "駅メモ！",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5ca2f72c11a7ea5216b757f9"
+    },
+    "name": "Peing",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5cb59a1f5a19baf82a1f066f"
+    },
+    "name": "はてなブックマーク",
+    "category": "連携サービス"
+},
+{
+    "_id": {
+            "$oid": "5cf4cd7fd8a5f57c88787d9a"
+    },
+    "name": "BoxFresh",
+    "category": "連携サービス"
+}]

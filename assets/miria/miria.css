@@ -1,0 +1,19 @@
+.right {
+    text-align: right;
+}
+
+.progress {
+    display: flex !important;
+    margin-bottom: 0 !important;
+}
+
+.bg-empty {
+    background-color: transparent;
+}
+
+.plus {
+    color: #5cb85c;
+}
+.minus {
+    color: #d9534f;
+}

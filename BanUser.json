@@ -1,0 +1,77 @@
+[{
+    "_id": {
+            "$oid": "5be79a9cd42a993b80d7c93a"
+    },
+    "screen_name": "_hjsk_",
+    "reason": "自動挨拶リプライ要求"
+},
+{
+    "_id": {
+            "$oid": "5be79a9cd42a993b80d7c93b"
+    },
+    "screen_name": "1KT1_",
+    "reason": "自動挨拶リプライ要求"
+},
+{
+    "_id": {
+            "$oid": "5be79a9cd42a993b80d7c93c"
+    },
+    "screen_name": "_1TK3",
+    "reason": "自動挨拶リプライ要求"
+},
+{
+    "_id": {
+            "$oid": "5be79a9cd42a993b80d7c93d"
+    },
+    "screen_name": "_1TK",
+    "reason": "自動挨拶リプライ要求"
+},
+{
+    "_id": {
+            "$oid": "5be79a9cd42a993b80d7c93e"
+    },
+    "screen_name": "_1TK2",
+    "reason": "自動挨拶リプライ要求"
+},
+{
+    "_id": {
+            "$oid": "5be79a9cd42a993b80d7c93f"
+    },
+    "screen_name": "5sph",
+    "reason": "自動挨拶リプライ要求"
+},
+{
+    "_id": {
+            "$oid": "5be79a9cd42a993b80d7c940"
+    },
+    "screen_name": "ASUTAQX",
+    "reason": "自動挨拶リプライ要求"
+},
+{
+    "_id": {
+            "$oid": "5c3ab8e5f0ad682ebc79b51f"
+    },
+    "screen_name": "baseball_yopp",
+    "reason": "過剰なリプライ"
+},
+{
+    "_id": {
+            "$oid": "5c6a1bea02a8463cdab6d84f"
+    },
+    "screen_name": "umilover129",
+    "reason": "過剰なリプライ"
+},
+{
+    "_id": {
+            "$oid": "5cab133d8ed33ca567122f66"
+    },
+    "screen_name": "Asashin_pyon",
+    "reason": "不謹慎厨"
+},
+{
+    "_id": {
+            "$oid": "5cd2fa20879adf25de1410fa"
+    },
+    "screen_name": "urapp_baseball",
+    "reason": "過剰なリプライ"
+}]
